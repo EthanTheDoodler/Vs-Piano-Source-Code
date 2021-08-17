@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Piano_Portrait.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Piano Enter0000" x="0" y="0" width="536" height="561" frameX="0" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0001" x="566" y="0" width="536" height="561" frameX="-24" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0002" x="566" y="0" width="536" height="561" frameX="-24" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0003" x="1132" y="0" width="536" height="561" frameX="-34" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0004" x="1132" y="0" width="536" height="561" frameX="-34" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0005" x="0" y="591" width="537" height="561" frameX="-35" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0006" x="0" y="591" width="537" height="561" frameX="-35" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0007" x="0" y="591" width="537" height="561" frameX="-35" frameY="0" frameWidth="572" frameHeight="561"/>
+	<SubTexture name="Piano Enter0008" x="0" y="591" width="537" height="561" frameX="-35" frameY="0" frameWidth="572" frameHeight="561"/>
+</TextureAtlas>
